@@ -3,4 +3,3 @@ def greeting(name)
   puts "calling the greeting method"
 end
 
-name = gets.strip
